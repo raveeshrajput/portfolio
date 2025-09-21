@@ -25,7 +25,7 @@ export default function Home(){
           {/* Right Side - Image */}
           <Col md={6} className="text-center">
             <img
-              src="/public/ravi photo.jpg"
+              src="/ravi photo.jpg"
               alt="Profile"
               className="img-fluid rounded-circle shadow"
               style={{ width: "250px", height: "250px", objectFit: "cover" }}

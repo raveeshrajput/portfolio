@@ -11,7 +11,7 @@ export default function About(){
               <Row>
                 <Col md={4} className="text-center">
                   <img
-                    src="/public/ravi photo.jpg"
+                    src="/ravi photo.jpg"
                     alt="Profile"
                     className="img-fluid rounded-circle shadow"
                   />
